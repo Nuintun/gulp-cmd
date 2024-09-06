@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "cmd-deps": "^3.2.2",
-    "micromatch": "^4.0.4",
+    "micromatch": "^4.0.6",
     "@nuintun/bundler": "^3.0.2",
     "@nuintun/through": "^1.1.1",
     "@nuintun/css-deps": "^2.2.1",
